@@ -116,7 +116,10 @@ The improved prompt is more effective for several reasons:
 3. Conciseness: While being more detailed, the improved prompt remains concise, avoiding unnecessary words while still providing clear instructions. This ensures that the model has a well-defined scope within which to generate a response.
 
 Why the Improved Prompt is More Effective:
-Focused Output: The improved prompt directs the AI to concentrate on a specific intersection of technology and healthcare, resulting in a more relevant and informative response.
-Higher Quality Response: By specifying recent advancements, the prompt encourages the AI to produce up-to-date information, enhancing the relevance and usefulness of the output.
+Focused Output:
+The improved prompt directs the AI to concentrate on a specific intersection of technology and healthcare, resulting in a more relevant and informative response.
+
+Higher Quality Response:
+By specifying recent advancements, the prompt encourages the AI to produce up-to-date information, enhancing the relevance and usefulness of the output.
 Efficient Use of Resources: A well-defined prompt reduces the likelihood of needing follow-up questions or clarifications, saving time and computational resources.
 
