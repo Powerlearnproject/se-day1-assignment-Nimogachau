@@ -19,7 +19,9 @@ In the 1960s and 1970s, as software systems grew in complexity, the need for bet
 Object-oriented programming (OOP) became popular in the 1980s as a way to better manage software complexity by modelling software around "objects," which represent both data and behaviours.
 
 3.	The Rise of Agile Methodologies (2001)
-In 2001, a group of software developers created the Agile Manifesto, which emphasized a flexible, iterative approach to software development in contrast to the traditional Waterfall model. Agile methodologies focus on continuous feedback, collaboration, and the ability to adapt to changing requirements throughout the development process.
+In 2001, a group of software developers created the Agile Manifesto, which emphasized a flexible, iterative approach to software development in contrast to the traditional Waterfall model. Agile methodologies
+
+focus on continuous feedback, collaboration, and the ability to adapt to changing requirements throughout the development process.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
