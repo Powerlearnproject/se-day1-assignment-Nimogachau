@@ -108,6 +108,7 @@ By specifying the style, tone, or format of the response, users can customize th
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
 Tell me about technology.
+
 Improved Prompt:
 Provide a brief overview of the impact of artificial intelligence on the healthcare industry, focusing on recent advancements in diagnostics and patient care.
 
